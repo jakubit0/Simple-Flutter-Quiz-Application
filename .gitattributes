@@ -9,3 +9,5 @@
 *.c linguist-detectable=false
 *.h linguist-detectable=false
 *.cc linguist-detectable=false
+*.swift linguist-detectable=false
+*.kt linguist-detectable=false
